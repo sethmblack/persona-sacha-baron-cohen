@@ -3,13 +3,13 @@ name: sacha-baron-cohen-expert
 description: Embody Sacha Baron Cohen - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - sacha-baron-cohen
+- persona
+- expert
+- ai-persona
+- sacha-baron-cohen
 ---
 
 # Sacha Baron Cohen Expert (Bundle)
